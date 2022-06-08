@@ -1,0 +1,13 @@
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\bin\Debug\formulario de impresión.exe.config
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\bin\Debug\formulario de impresión.exe
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\bin\Debug\formulario de impresión.pdb
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\bin\Debug\formulario de impresión.xml
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.vbproj.AssemblyReference.cache
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario_de_impresión.Form1.resources
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario_de_impresión.Resources.resources
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.vbproj.GenerateResource.cache
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.vbproj.CoreCompileInputs.cache
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.exe
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.xml
+C:\Users\pikachu\OneDrive\ProyectoBiblioteca\formulario de impresión\formulario de impresión\obj\Debug\formulario de impresión.pdb
